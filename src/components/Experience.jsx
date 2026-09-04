@@ -24,7 +24,7 @@ function Experience() {
                     </h3>
 
                     <h4>
-                        IUB CSE Fest
+                        IUB TechFest
                     </h4>
 
                     <p>
