@@ -1,0 +1,80 @@
+:root {
+    font-family:
+        Inter,
+        "Segoe UI",
+        Arial,
+        sans-serif;
+
+    color: #f8fafc;
+    background: #070b14;
+
+    --bg: #070b14;
+    --bg-soft: #0b1120;
+    --card: #101827;
+    --card-hover: #141f32;
+
+    --text: #f8fafc;
+    --text-soft: #dbe4f0;
+    --muted: #94a3b8;
+
+    --purple: #7c5cff;
+    --purple-light: #a78bfa;
+    --cyan: #22d3ee;
+    --green: #34d399;
+    --orange: #fb923c;
+
+    --border: rgba(148, 163, 184, 0.14);
+
+    --shadow:
+        0 24px 70px rgba(0, 0, 0, 0.3);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 85px;
+}
+
+body {
+    min-width: 320px;
+    min-height: 100vh;
+
+    margin: 0;
+
+    background:
+        radial-gradient(
+            circle at 10% 5%,
+            rgba(124, 92, 255, 0.14),
+            transparent 25%
+        ),
+        radial-gradient(
+            circle at 90% 20%,
+            rgba(34, 211, 238, 0.07),
+            transparent 25%
+        ),
+        var(--bg);
+
+    color: var(--text);
+}
+
+button,
+input,
+textarea {
+    font: inherit;
+}
+
+a {
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+::selection {
+    color: white;
+    background: var(--purple);
+}
