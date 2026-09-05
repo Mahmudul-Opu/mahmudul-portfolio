@@ -17,7 +17,7 @@ function Experience() {
 
                 <article className="experience-card">
 
-                    <span>2025</span>
+                    <span>2024</span>
 
                     <h3>
                         Volunteer
