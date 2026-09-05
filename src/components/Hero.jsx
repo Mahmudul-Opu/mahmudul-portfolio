@@ -57,6 +57,18 @@ function Hero() {
                         GitHub
                     </a>
 
+                    <a
+                        href="/cv/Mahmudul-Amin-Opu-CV.pdf"
+                        download="Mahmudul-Amin-Opu-CV.pdf"
+                        className="button secondary"
+                    >
+                        Download CV
+                    </a>    
+
+
+        
+                     
+
                 </div>
 
 

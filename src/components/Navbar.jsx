@@ -70,6 +70,16 @@ function Navbar() {
                     </a>
 
                     <a
+                        href="/cv/Mahmudul-Amin-Opu-CV.pdf"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="nav-cv"
+                    >
+                        View CV
+
+                    </a>    
+
+                    <a
                         href="#achievements"
                         onClick={closeMenu}
                     >
