@@ -68,13 +68,13 @@ function Experience() {
                 <span>
                     IEEE IUB Student Branch
                     • Active Member
-                    • 2024–2025
+                    • Jan 2023 -- Jul 2026
                 </span>
 
                 <span>
                     JUKTI, Club of CSE
                     • Active Member
-                    • 2024–2026
+                    • Jan 2023 -- Aug 2026
                 </span>
 
             </div>
